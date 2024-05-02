@@ -5,7 +5,7 @@ import {
 } from "../services/article";
 import InputUrl from "./InputUrl";
 import InputText from "./InputText";
-import HistoryCard from "./HIstoryCard";
+import HistoryCard from "./HistoryCard";
 import SummaryCard from "./SummaryCard";
 import TabComponent from "./TabComponent";
 import TextHistroy from "./TextHistroy";
